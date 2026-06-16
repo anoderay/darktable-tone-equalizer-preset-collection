@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <darktable_preset version="1.0">
   <preset>
-    <name>Contraste | faible</name>
+    <name>contrast | Force 0</name>
     <description/>
     <operation>toneequal</operation>
     <op_params>d0cc4cbe989919bed0ccccbdc0cc4cbd00000000c0cc4c3dc0cccc3da099193ed0cc4c3e0000a040f304b53f0000fa430000000000000000000000c0000000000400000001000000</op_params>
@@ -22,8 +22,8 @@
     <blendop_params>gz08eJxjYGBgYAFiCQYYOOHEgAZY0QWAgBGLGANDgz0Ej1Q+dlAx68oBEMbFxwX+AwGIBgCbGCeh</blendop_params>
     <blendop_version>14</blendop_version>
     <multi_priority>0</multi_priority>
-    <multi_name>Contraste</multi_name>
-    <multi_name_hand_edited>1</multi_name_hand_edited>
+    <multi_name>contrast | Force 0</multi_name>>
+    <multi_name_hand_edited>0</multi_name_hand_edited>
     <filter>0</filter>
     <def>0</def>
     <format>7</format>
