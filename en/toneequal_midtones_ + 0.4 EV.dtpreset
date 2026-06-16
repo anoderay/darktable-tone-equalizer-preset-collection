@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <darktable_preset version="1.0">
   <preset>
-    <name>midtones | 2.0 EV</name>
+    <name>midtones | + 0.4 EV</name>
     <description/>
     <operation>toneequal</operation>
-    <op_params>b95df4bc779e063ecccc0c3fcccccc3f00000040cccccc3fcccc0c3f60ca093e6d3efdbcffff7f40f304b53fffff9f410000000000000000000000c0040000000400000005000000</op_params>
+    <op_params>75eb39bc00d7233c00d7233d285c8f3ed0cccc3e285c8f3e00d7233d00d7233cbf9e27bc0000a040f304b53f0000e0400000000000000000000000c0040000000400000003000000</op_params>
     <op_version>2</op_version>
     <enabled>1</enabled>
     <autoapply>0</autoapply>
@@ -22,7 +22,7 @@
     <blendop_params>gz09eJxjYGBgYAFiCQYYOOHEgAZY0QVwggZ7CB6pfOygYtaVAyCMi48L/AcCEA0AmawnoA==</blendop_params>
     <blendop_version>14</blendop_version>
     <multi_priority>0</multi_priority>
-    <multi_name>midtones | 2.0 EV</multi_name>
+    <multi_name>midtones | + 0.4 EV</multi_name>
     <multi_name_hand_edited>0</multi_name_hand_edited>
     <filter>0</filter>
     <def>0</def>
