@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <darktable_preset version="1.0">
   <preset>
-    <name>shadows | - | 2.0 EV</name>
+    <name>shadows | - 2.0 EV</name>
     <description/>
     <operation>toneequal</operation>
     <op_params>ffffffbfffffbfbf000080bf000000bf00000000000000000000000000000000000000000000a040f304b53fffffc74100000000d0ccccbd999929c0040000000400000005000000</op_params>
