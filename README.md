@@ -1,4 +1,4 @@
-# darktable Tone Equalizer Preset Collection
+# darktable tone equalizer preset collection
 
 Collection of useful tone equalizer presets for darktable. Includes presets for compression and contrast, for raising and lowering shadows and highlights and for raising midtones.
 
