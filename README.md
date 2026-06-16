@@ -2,6 +2,8 @@
 
 Collection of useful tone equalizer presets for darktable. Includes presets for compression and contrast, for raising and lowering shadows and highlights and for raising midtones.
 
+The contrast and compression presets are very similar to those included with darktable. 
+
 ### Compression
 
 ![compress](images/compress.png)
