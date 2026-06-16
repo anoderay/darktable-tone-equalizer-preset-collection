@@ -12,7 +12,7 @@ Collection of useful tone equalizer presets for darktable. Includes presets for 
 
 ### Highlights
 
-![highlights +2 EV](images/highlights+2ev.png) ![highlights -2 EV](images/highlights-2ev.png)
+![highlights +2 EV](images/highlights+2ev.png)  ![highlights -2 EV](images/highlights-2ev.png)
 
 ### Midtones
 
@@ -20,4 +20,4 @@ Collection of useful tone equalizer presets for darktable. Includes presets for 
 
 ### Shadows
 
-![shadows +2 EV](images/shadows+2ev.png) ![shadows -2 EV](images/shadows-2ev.png)
+![shadows +2 EV](images/shadows+2ev.png)  ![shadows -2 EV](images/shadows-2ev.png)
