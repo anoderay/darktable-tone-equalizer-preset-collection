@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <darktable_preset version="1.0">
   <preset>
-    <name>highlights | + 1.0 EV</name>
+    <name>highlights | + | 1.0 EV</name>
     <description/>
     <operation>toneequal</operation>
     <op_params>00000000000000000000000000000000000000000000803e0000003f0000403f0000803f0000a040f304b53f0000e04000000000d0ccccbdffff1fc0040000000400000003000000</op_params>
