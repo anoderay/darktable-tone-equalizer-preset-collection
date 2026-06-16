@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <darktable_preset version="1.0">
   <preset>
-    <name>shadows | + | 1.5 EV</name>
+    <name>shadows | + 1.5 EV</name>
     <description/>
     <operation>toneequal</operation>
     <op_params>0000c03fd8a3903f0000403fa070bd3e00000000000000000000000000000000000000000000a040f304b53fffff1f4100000000d0ccccbd999929c0040000000400000004000000</op_params>
@@ -22,7 +22,7 @@
     <blendop_params>gz11eJxjYGBgYAZiCQYYOOHEgAZY0QVwggZ7CB6pfOqC/0AAogFt5h0H</blendop_params>
     <blendop_version>14</blendop_version>
     <multi_priority>0</multi_priority>
-    <multi_name>shadows + 1.5 EV</multi_name>
+    <multi_name>shadows | + 1.5 EV</multi_name>
     <multi_name_hand_edited>0</multi_name_hand_edited>
     <filter>0</filter>
     <def>0</def>
